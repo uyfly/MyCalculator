@@ -157,8 +157,6 @@ class MainActivity : AppCompatActivity() {
             }
         }
 
-        resetDecimalFormat()
-
         lastOperator = false
     }
 
